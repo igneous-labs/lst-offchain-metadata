@@ -1,0 +1,7 @@
+{
+    "name": "Helius Staked SOL",
+    "symbol": "hSOL",
+    "description": "The LST for the Helius validator",
+    "image": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/hSOL/hSOL.png"
+}
+
