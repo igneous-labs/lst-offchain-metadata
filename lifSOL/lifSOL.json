@@ -1,0 +1,7 @@
+{
+    "name": "Lifinity Staked SOL",
+    "symbol": "lifSOL",
+    "description": "The LST for Lifinity's validator",
+    "image": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/lifSOL/lifSOL.svg"
+}
+
