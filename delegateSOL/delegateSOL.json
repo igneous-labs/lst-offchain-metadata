@@ -1,0 +1,7 @@
+{
+    "name": "Delegate Liquid Staking Token",
+    "symbol": "delegateSOL",
+    "description": "The LST for Delegate Stake Pool",
+    "image": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/delegateSOL/delegateSOL.png"
+}
+
