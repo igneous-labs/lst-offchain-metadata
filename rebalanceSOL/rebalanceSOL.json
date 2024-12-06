@@ -1,6 +1,0 @@
-{
-    "name": "Rebalance SOL",
-    "symbol": "rebalanceSOL",
-    "description": "The LST used for rebalancing Infinity assets",
-    "image": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/rebalanceSOL/rebalanceSOL.png"
-}
